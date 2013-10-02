@@ -34,6 +34,12 @@ body {
 	font-smoothing: antialiased;
 }
 
+#number {
+  position: absolute;
+  top: 130px;
+  left: 60px;
+}
+
 #todoapp {
 	background: #fff;
 	background: rgba(255, 255, 255, 0.9);
