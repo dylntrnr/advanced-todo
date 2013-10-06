@@ -40,6 +40,12 @@ body {
   left: 60px;
 }
 
+#email {
+  position: absolute;
+  top: 195px;
+  left: 60px;
+}
+
 #todoapp {
 	background: #fff;
 	background: rgba(255, 255, 255, 0.9);
